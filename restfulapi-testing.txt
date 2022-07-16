@@ -1,10 +1,20 @@
 Restful API Testing
 Tech Stacks : PHP Slim, PostgreSQL
-Database 
-^ database dvdrental
-^ Laravel/Lumen
-^ Kubernetes
-^ Redis
-^ Vue
+New Tech Stacks
+^ PostgreSQL
+^ SQL
+^ MongoDB
+^ Cassandra
+PHP Framework
+^ Laravel
+^ Slim
+Kubernetes
+Redis
+Golang
+Python
+^ Django
+Javascript Framework
 ^ React
+^ Vue
+
 
