@@ -6,3 +6,5 @@ Database
 ^ Kubernetes
 ^ Redis
 ^ Vue
+^ React
+
